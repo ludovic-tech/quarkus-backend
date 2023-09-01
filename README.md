@@ -1,4 +1,4 @@
-TEST NGROK 
+
 # The Cloud Ready Post-It Application
 This is a sample application for the book, Getting Started with OpenShift.
 
